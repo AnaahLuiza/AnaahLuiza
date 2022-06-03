@@ -1,6 +1,7 @@
 ### ☕ Perfil:
 Raramente uso o github. Está stalkeando o lugar errado.
-[![Discord Presence](https://lanyard.cnrad.dev/api/757513323934777374&idleMessage=sabao)](https://discord.com/users/7575133239347773)
+
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/757513323934777374?theme=dark&bg=2f3136&animated=false&hideDiscrim=false&borderRadius=10px&idleMessage=https://discord.gg/QuGSbPKNMK" alt="Discord Status">
 
 ## Contatos:
 - [☕ Discord](https://discord.gg/QuGSbPKNMK)
